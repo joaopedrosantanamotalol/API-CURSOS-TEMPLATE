@@ -99,7 +99,4 @@ public class Curso {
     public void setHorasCurso(Integer horasCurso) {
         this.horasCurso = horasCurso;
     }
-
-    
-
 }
